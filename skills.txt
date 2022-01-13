@@ -1,0 +1,3 @@
+git bash - cd, mkdir, pwd, rm, mv, cp, touch, vim...
+git hub - create repositories, add files, change files, commit and push
+soft skills, comunication, teory, how to find information in Google..
